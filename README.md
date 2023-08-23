@@ -1,6 +1,6 @@
 #ML_Projects
 
-Listed in my resume is Project 1 which goes over the ML regression models.
+Listed in my resume is Project 1 which goes over ML regression models.
 
 To run any file, you need jupyter notebook.
 In my case, I use juypter notebook under anaconda navigator application.
