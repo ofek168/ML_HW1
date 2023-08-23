@@ -1,11 +1,11 @@
 #ML_Projects
 
+Listed in my resume is Project 1 which goes over the ML regression models.
+
 To run any file, you need jupyter notebook.
 In my case, I use juypter notebook under anaconda navigator application.
 
 There are 4 different ML assignments, each with its own instruction file listed below in order:
-
-Listed in my resume is Project 1 which goes over the main regression models.
 
 Project 1:
 Instruction_File: HW1.ipnynb
