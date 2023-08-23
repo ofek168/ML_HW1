@@ -17,7 +17,7 @@ Completed_Assignment_file: final_HW2.ipynb
 
 Project 3:
 Instruction_File: HW3.ipnynb
-Completed_Assignment_file: 
+Completed_Assignment_file: HW3_ofek_UCD_final.ipynb
 
 Project 4:
 Instruction_File: HW4.ipnynb
