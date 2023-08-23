@@ -9,7 +9,7 @@ Listed in my resume is Project 1 which goes over the main regression models.
 
 Project 1:
 Instruction_File: HW1.ipnynb
-Completed_Assignment_file: 
+Completed_Assignment_file: complete_HW1.ipynb
 
 Project 2:
 Instruction_File: HW2 - Ofek.ipynb
